@@ -20,6 +20,14 @@ lib/libloc_api_v02.so
 lib/libloc_eng.so
 # CM-11.0 #
 
+# CM-10.1 #
+bin/display-pp
+lib/libalsa-intf.so
+lib/libcnefeatureconfig.so
+lib/hw/sensors.msm8930.so
+lib/hw/sensors.oem.so
+# CM-10.1 #
+
 # bin
 bin/diag_callback_client
 bin/diag_klog
