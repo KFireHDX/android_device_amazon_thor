@@ -76,7 +76,7 @@ bin/ds_fmc_appd
 bin/irsc_util
 bin/mm-camera-cmd-tool
 bin/mm-qcamera-daemon
-bin/mm-pp-daemon
+#bin/mm-pp-daemon
 bin/mm-qcamera-app
 bin/mpdecision
 bin/netmgrd
@@ -379,7 +379,7 @@ vendor/lib/libmmcamera_star_eeprom.so
 vendor/lib/libCommandSvc.so
 vendor/lib/libmmcamera_skuab_shinetech_gc0339.so
 vendor/lib/libqmiservices.so
-vendor/lib/libdisp-aba.so
+#vendor/lib/libdisp-aba.so
 #vendor/lib/libcryptfs_hw.so
 vendor/lib/libsecureui.so
 vendor/lib/lib-imsdpl.so
@@ -410,7 +410,7 @@ vendor/lib/libmmcamera_faceproc.so
 vendor/lib/libmsapm_jni.so
 vendor/lib/lib-rcsjni.so
 vendor/lib/lib-dplmedia.so
-vendor/lib/libmm-abl-oem.so
+#vendor/lib/libmm-abl-oem.so
 vendor/lib/libllvm-qcom.so
 vendor/lib/libmmQTA.so
 vendor/lib/librpmb.so
