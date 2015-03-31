@@ -5,11 +5,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
 	hwui.render_dirty_regions=false
 
 # RIL turn off
-PRODUCT_PROPERTY_OVERRIDES += \
-	keyguard.no_require_sim=1 \
-	ro.radio.use-ppp=no \
-	ro.config.nocheckin=yes \
-	ro.radio.noril=yes
+#PRODUCT_PROPERTY_OVERRIDES += \
+#	keyguard.no_require_sim=1 \
+#	ro.radio.use-ppp=no \
+#	ro.config.nocheckin=yes \
+#	ro.radio.noril=yes
 
 # wifi-only device
 PRODUCT_PROPERTY_OVERRIDES += \
